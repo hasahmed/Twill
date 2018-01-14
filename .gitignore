@@ -1,6 +1,6 @@
 *.swp
 *.swo
-*.Session
+Session.vim
 __pychache__/*
 help_katie.log
 katie_test.py
