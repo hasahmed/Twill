@@ -1,0 +1,6 @@
+*.swp
+*.swo
+*.Session
+__pychache__
+help_katie.log
+test.py
