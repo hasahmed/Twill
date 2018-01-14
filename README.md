@@ -29,3 +29,9 @@ print(tw.tweepy_api.get_user('twitter'))
 ```
 
 The above code initializes and uses the underlying tweepy API to get the user associated with the 'twitter' username.
+If you have properly configured you `~/.twitter_auth` file the following initilization would also be valid:
+```
+from twill import Twill
+tw = Twill()
+print(tw.tweepy_api.get_user('twitter'))
+```
