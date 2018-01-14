@@ -5,3 +5,4 @@ __pychache__
 help_katie.log
 katie_test.py
 test.py
+*.pyc
