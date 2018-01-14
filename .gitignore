@@ -1,7 +1,7 @@
 *.swp
 *.swo
 *.Session
-__pychache__
+__pychache__/*
 help_katie.log
 katie_test.py
 test.py
