@@ -1,6 +1,7 @@
 # Twill
 ## The Twitter Utility
-This is a project intends to be a collection of high level code for twitter manipulation. If you have written some utilities in python that you would like to add,
+This is a project intends to be a one-stop collection of high level code for twitter manipulation / gathering.
+If you have written some utilities in python that you would like to add,
 please do so.
 The overall goal of the utilities provided is to make doing high-level twitter things easy, sucn as collecting every tweet ever from a partiular user, and storing it on disk.
 This project is built on top of tweepy (which is a python interface for the Twitter API),
