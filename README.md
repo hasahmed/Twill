@@ -1,6 +1,6 @@
 # Twill
 ## The Twitter Utility
-This is a probject that attempts to make doing high-level twitter things easy.
+This is a project that attempts to make doing high-level twitter things easy.
 A typical use case is text-mining.
 This project is built on top of tweepy, and has a readily available tweepy instance in the object. `twill.tweepy_api`
 
